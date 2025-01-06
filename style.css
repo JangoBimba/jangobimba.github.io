@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background-color: antiquewhite
+    color:darkslategray;
+    line-height: 1.5;
+    width: 980px;
+    margin:0 auto;
+
+}
+
+header{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+main{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 3px;
+}
+
+.zleft{
+    font-style: italic;
+}
+
+li{
+    font-weight: bold;
+}
